@@ -1,2 +1,2 @@
 # Dart-Course-Applications
-##The course is "The Complete Dart Learning Guide" presented by Hassan Fulaih
+The course is "The Complete Dart Learning Guide" presented by Hassan Fulaih
